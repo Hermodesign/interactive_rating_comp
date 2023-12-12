@@ -16,7 +16,7 @@
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/Hermodesign/faq_accordion.git)
-- - Live Site URL: [[Add live site URL here](https://joyful-basbousa-fa71d1.netlify.app/)
+- - Live Site URL: [Add live site URL here](https://joyful-basbousa-fa71d1.netlify.app/)
 
 ### Screenshot
 
